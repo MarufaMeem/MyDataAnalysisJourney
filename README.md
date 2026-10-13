@@ -7,9 +7,10 @@
 ![Social Media Analytics](images/socialmediadetails.png)
 
 ### Customer Reviews
-![Customer Reviews](images/customerReviewsDetails.png)
+![Customer Reviews](images/customerReviewDetails.png)
 
-
+### Conversion Details
+![Customer Reviews](images/ConversionDetails.png)
 
 ## Project Overview
 
